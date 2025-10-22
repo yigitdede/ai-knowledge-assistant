@@ -91,6 +91,8 @@ sentence-transformers
 faiss-cpu
 
 ## Çalıştırma Kılavuzu
+
+```bash
 git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
 
@@ -100,3 +102,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run app.py
+
