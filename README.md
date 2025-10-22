@@ -60,9 +60,11 @@ Model, kısa sorulara veri seti içerisinden doğru ve anlamlı yanıtlar verebi
 Örnek çıktı:
 
 Soru: "Yapay zeka nedir?"
+
 Cevap: "Yapay zeka, bilgisayar sistemlerinin insan zekasına benzer şekilde öğrenme, akıl yürütme ve problem çözme yetenekleri kazanmasını amaçlayan bir bilim dalıdır."
 
 Soru: "Makine öğrenmesi ne işe yarar?"
+
 Cevap: "Derin öğrenme, çok katmanlı yapay sinir ağlarını kullanarak karmaşık verilerden anlamlı özellikler çıkaran bir makine öğrenmesi alt dalıdır."
 
 ## Web Arayüzü & Kullanım Kılavuzu
