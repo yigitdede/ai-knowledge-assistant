@@ -96,7 +96,7 @@ faiss-cpu
 │   ├─ model.py
 │   └─ train.py
 └─ README.md
-
+```
 
 
 
