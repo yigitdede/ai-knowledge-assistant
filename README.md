@@ -80,6 +80,27 @@ altair
 sentence-transformers
 
 faiss-cpu
+### Proje Mimarisi
+```/ai-knowledge-assistant
+│
+├─ streamlit_app.py      # Ana dosya, HF Space main file olarak gösterilecek
+├─ requirements.txt
+├─ data/
+│   └─ raw/
+│       ├─ 1.txt
+│       ├─ 2.txt
+│       └─ ... (toplam 7-8 txt)
+├─ src/
+│   ├─ __init__.py
+│   ├─ data_loader.py
+│   ├─ model.py
+│   └─ train.py
+└─ README.md
+
+
+
+
+
 
 ## Çalıştırma Kılavuzu
 
@@ -105,4 +126,4 @@ cd ai-knowledge-assistant`
 `streamlit run src/streamlit_app.py`
 
 ### İletişim
-mail: yigitdedee28@gmail.com
+Mail adresi: yigitdedee28@gmail.com
