@@ -35,7 +35,7 @@ Model: src/model.py içinde embedding + retrieval mekanizması (sentence-transfo
 
 Eğitim: src/train.py ile verilerden vektörler çıkarılır ve FAISS vektör tabanı oluşturulur.
 
-Web arayüzü: Streamlit üzerinden kullanıcı sorularını alır ve yanıtları gösterir.
+Web arayüzü: Colabte başlanan proje hugging face streamlit üzerinden arayüze sunulur.
 
 
 ## Elde Edilen Sonuçlar
