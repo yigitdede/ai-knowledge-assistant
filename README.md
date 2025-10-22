@@ -37,21 +37,6 @@ Eğitim: src/train.py ile verilerden vektörler çıkarılır ve FAISS vektör t
 
 Web arayüzü: Streamlit üzerinden kullanıcı sorularını alır ve yanıtları gösterir.
 
-## Proje klasör yapısı:
-
-ai-knowledge-assistant/
-├─ data/
-
-│  └─ raw/  
-
-├─ src/
-│  ├─ __init__.py
-│  ├─ data_loader.py
-│  ├─ model.py
-│  └─ train.py
-├─ app.py           # Streamlit ana dosyası
-├─ requirements.txt
-└─ README.md
 
 ## Elde Edilen Sonuçlar
 
@@ -79,15 +64,21 @@ Soru kutusuna "Yapay zeka nedir?" yazılır.
 
 Model cevabı gösterir: "Yapay zeka, bilgisayar sistemlerinin insan zekasına benzer şekilde öğrenme…"
 
-Canlı demo linki: Hugging Face Space
+🌐 [Canlı Hugging Face Space Linki](https://huggingface.co/spaces/yigitdede/ai-knowledge-assistant)
+
 
 ## Gereksinimler
 
 Python 3.9+
+
 Streamlit
+
 pandas
+
 altair
+
 sentence-transformers
+
 faiss-cpu
 
 ## Çalıştırma Kılavuzu
