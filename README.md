@@ -41,7 +41,9 @@ Web arayüzü: Streamlit üzerinden kullanıcı sorularını alır ve yanıtlar�
 
 ai-knowledge-assistant/
 ├─ data/
-│  └─ raw/         # Metin dosyaları
+
+│  └─ raw/  
+
 ├─ src/
 │  ├─ __init__.py
 │  ├─ data_loader.py
@@ -77,7 +79,7 @@ Model cevabı gösterir: "Yapay zeka, bilgisayar sistemlerinin insan zekasına b
 
 Canlı demo linki: Hugging Face Space
 
-##Gereksinimler
+## Gereksinimler
 
 Python 3.9+
 Streamlit
@@ -91,9 +93,6 @@ git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
 
 python -m venv venv
-# Linux/Mac
-source venv/bin/activate
-# Windows
 venv\Scripts\activate
 
 pip install -r requirements.txt
