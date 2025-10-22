@@ -83,14 +83,20 @@ faiss-cpu
 
 ## Çalıştırma Kılavuzu
 
-```bash
+### 1. Reponuzu klonlayın
+`
 git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
+Python sanal ortamı oluşturun ve aktif edin:
 
-python -m venv venv
+`python -m venv venv`
+# Linux/Mac
+source venv/bin/activate
+# Windows
 venv\Scripts\activate
-
-pip install -r requirements.txt
-
-streamlit run app.py
+python -m venv venv
+# Linux/Mac
+source venv/bin/activate
+# Windows
+venv\Scripts\activate```
 
