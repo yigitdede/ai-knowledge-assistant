@@ -73,7 +73,7 @@ Soru kutusuna "Yapay zeka nedir?" yazılır.
 Model cevabı gösterir: "Yapay zeka, bilgisayar sistemlerinin insan zekasına benzer şekilde öğrenme…"
 
 🌐 [Canlı Hugging Face Space Linki](https://huggingface.co/spaces/yigitdede/ai-knowledge-assistant)
-
+  [Google Colab Linki](https://colab.research.google.com/drive/1Ah6PVVuJ3AYT75RpiP-S7lNGtzyFa9A8?usp=sharing)
 
 ## Gereksinimler
 
