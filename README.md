@@ -84,19 +84,19 @@ faiss-cpu
 ## Çalıştırma Kılavuzu
 
 ### 1. Reponuzu klonlayın
-`
+```
 git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
-Python sanal ortamı oluşturun ve aktif edin:
+#Python sanal ortamı oluşturun ve aktif edin:
 
 `python -m venv venv`
 # Linux/Mac
-source venv/bin/activate
+`source venv/bin/activate`
 # Windows
-venv\Scripts\activate
-python -m venv venv
+`venv\Scripts\activate`
+`python -m venv venv`
 # Linux/Mac
-source venv/bin/activate
+`source venv/bin/activate`
 # Windows
-venv\Scripts\activate```
+`venv\Scripts\activate`
 
