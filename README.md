@@ -90,7 +90,7 @@ altair
 sentence-transformers
 faiss-cpu
 
-##Çalıştırma Kılavuzu
+## Çalıştırma Kılavuzu
 git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
 
