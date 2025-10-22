@@ -110,7 +110,7 @@ faiss-cpu
 `git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant`
 
-# 2.Python sanal ortamı oluşturun ve aktif edin:
+# 2.Python sanal ortamı oluşturun ve aktif edin
 
 `python -m venv venv`
 `source venv/bin/activate`
@@ -125,5 +125,3 @@ cd ai-knowledge-assistant`
 
 `streamlit run src/streamlit_app.py`
 
-### İletişim
-Mail adresi: yigitdedee28@gmail.com
