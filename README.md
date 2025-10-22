@@ -83,20 +83,26 @@ faiss-cpu
 
 ## Çalıştırma Kılavuzu
 
-### 1. Reponuzu klonlayın
+### 
 ```
+#Repo klonlama
 git clone https://github.com/<your-username>/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
-#Python sanal ortamı oluşturun ve aktif edin:
+
+# 2.Python sanal ortamı oluşturun ve aktif edin:
 
 `python -m venv venv`
 # Linux/Mac
 `source venv/bin/activate`
 # Windows
 `venv\Scripts\activate`
-`python -m venv venv`
-# Linux/Mac
-`source venv/bin/activate`
-# Windows
-`venv\Scripts\activate`
+
+3. Gereken paketleri yükleyin
+
+`pip install -r requirements.txt`
+
+4. Streamlit uygulamasını başlatın
+
+`streamlit run src/streamlit_app.py`
+
 
