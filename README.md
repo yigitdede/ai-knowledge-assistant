@@ -92,17 +92,17 @@ cd ai-knowledge-assistant`
 # 2.Python sanal ortamı oluşturun ve aktif edin:
 
 `python -m venv venv`
-# Linux/Mac
 `source venv/bin/activate`
-# Windows
+
 `venv\Scripts\activate`
 
-3. Gereken paketleri yükleyin
+# 3. Gereken paketleri yükleyin
 
 `pip install -r requirements.txt`
 
-4. Streamlit uygulamasını başlatın
+# 4. Streamlit uygulamasını başlatın
 
 `streamlit run src/streamlit_app.py`
 
-
+### İletişim
+mail: yigitdedee28@gmail.com
