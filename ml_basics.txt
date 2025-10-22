@@ -1,0 +1,1 @@
+Makine öğrenmesi (Machine Learning, ML), verilerden örüntüleri öğrenen ve yeni veriler üzerinde tahminler yapabilen algoritmaların geliştirilmesidir. Denetimli ve denetimsiz öğrenme olmak üzere çeşitli yöntemleri vardır.

@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG), bilgiyi önceden indekslenmiş kaynaklardan çekip, LLM modelleriyle birleştirerek yanıtlar üreten bir mimaridir. Bu yaklaşım, özellikle bilgiye dayalı chatbotlarda doğruluğu artırır.

@@ -1,0 +1,1 @@
+Derin öğrenme (Deep Learning, DL), çok katmanlı yapay sinir ağlarını kullanarak karmaşık verilerden anlamlı özellikler çıkaran makine öğrenmesi alt dalıdır. Görüntü işleme, ses tanıma ve doğal dil işleme gibi alanlarda yoğun şekilde kullanılır.

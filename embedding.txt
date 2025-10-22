@@ -1,0 +1,1 @@
+Embedding, kelimeleri veya metinleri sayısal vektörlere dönüştürerek bilgisayarların anlaması için matematiksel temsiller oluşturan bir tekniktir. Bu sayede metinler arasındaki benzerlikler hesaplanabilir.

@@ -1,0 +1,1 @@
+FAISS (Facebook AI Similarity Search), büyük ölçekli vektör veri tabanlarında hızlı benzerlik aramaları yapmak için kullanılan bir kütüphanedir. Özellikle embedding temelli bilgi arama sistemlerinde kullanılır.

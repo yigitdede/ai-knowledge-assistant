@@ -1,0 +1,1 @@
+Yapay zeka (Artificial Intelligence, AI), bilgisayarların insan zekasına benzer şekilde öğrenme, akıl yürütme ve problem çözme yetenekleri kazanmasını sağlayan bilim dalıdır. AI, günlük yaşamda otomatik öneri sistemlerinden otonom araçlara kadar birçok alanda kullanılmaktadır.
