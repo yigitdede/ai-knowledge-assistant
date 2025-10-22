@@ -13,6 +13,14 @@ Veri seti tamamen hazır veri seti olarak kullanılmıştır, dolayısıyla topl
 
 Her belge .txt formatında saklanır ve model tarafından embedding işlemi için kullanılır.
 
+## Kullanım
+
+Modeli ve veriyi Google Colab üzerinde çalıştırabilirsiniz.
+
+Arayüz için Hugging Face Space üzerinden canlı demo sağlanmaktadır.
+
+Colab ve Hugging Face Space birbirinden bağımsızdır, arayüz için Hugging Face Space linkine yönlendirme yapılır.
+
 ## Kullanılan Yöntemler
 
 Veri Yükleme: src/data_loader.py ile raw verilerin yüklenmesi.
