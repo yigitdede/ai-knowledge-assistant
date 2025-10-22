@@ -84,10 +84,10 @@ faiss-cpu
 ## Çalıştırma Kılavuzu
 
 ### 
-```
-#Repo klonlama
-git clone https://github.com/<your-username>/ai-knowledge-assistant.git
-cd ai-knowledge-assistant
+
+# 1.Repo klonlama
+`git clone https://github.com/<your-username>/ai-knowledge-assistant.git
+cd ai-knowledge-assistant`
 
 # 2.Python sanal ortamı oluşturun ve aktif edin:
 
